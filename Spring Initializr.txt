@@ -1,0 +1,1 @@
+https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.2.1&packaging=jar&jvmVersion=17&groupId=com.springbootproject&artifactId=LigaPilkarska&name=LigaPilkarska&description=Projekt%3A%20liga%20pi%C5%82karska&packageName=com.springbootproject.LigaPilkarska&dependencies=web,lombok,mysql,data-jpa,devtools,validation
